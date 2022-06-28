@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mariaeeduarda
 - 👀 I’m interested in developing games
-- 🌱 I’m currently learning HTML 
+- 🌱 I’m currently learning HTML ,CSS e JavaScript
 - 💞️ I’m looking to collaborate on basic projects
 - 📫 How to reach me @mmariduda_ on instagram
 
