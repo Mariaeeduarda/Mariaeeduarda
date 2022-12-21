@@ -1,7 +1,4 @@
 ### Oi! Eu sou Maria Eduarda👋
-- 👀 I’m interested in developing games
-- 🌱 Atualmente aprendendo HTML ,CSS e JavaScript
-- 📫 Meu e-mail para contato é eduardamaria3265@hotmail.com
  
  
 <div align="center" >
